@@ -17,3 +17,9 @@ const conditional = <T extends FunctionBase>(
   }
 }
 ```
+
+## const assertions
+
+## typeof
+
+## keyof
